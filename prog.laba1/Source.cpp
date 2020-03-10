@@ -165,7 +165,7 @@ int main()
 		}
 	}
 	///////////// 3 lvl(5var)
-	const int m = 3;
+	const int m = 9;
 	NOTE1 BLOCK[m];
 	for (int i = 0; i < m; i++)
 	{
